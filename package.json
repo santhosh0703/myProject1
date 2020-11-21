@@ -2,10 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "node_react_forum.js",
+  "main": "server/node_react_forum.js",
   "scripts": {
-    "start": "node node_react_forum.js",
-    "dev": "nodemon node_react_forum.js"
+    "start": "node server/node_react_forum.js",
+    "dev": "nodemon server/node_react_forum.js"
   },
   "keywords": [],
   "author": "",
